@@ -1,29 +1,29 @@
 # Hi there! 👋 I'm Ashish Jha
 
-## 🚀 Head of Technical Operations | AI Generalist | Full-Stack Developer | Team Leader
+## Head of Technical Operations | AI Generalist | Full-Stack Developer | Team Leader
 
 > *Transforming ideas into intelligent, scalable digital solutions with 5+ years of engineering excellence and deep expertise in Generative AI*
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a passionate software engineer and **AI Generalist** with over **5 years of professional experience**, currently serving as **Head of Technical Operations** at [Aussie IT Group](https://aussieitgroup.com.au). My journey began as a Junior Customer Support Engineer and evolved through leadership roles, culminating in heading technical operations for multiple high-impact projects.
 
-🤖 **AI & Automation Expertise:**
-- 🧠 Deep understanding of **Generative AI** technologies and applications
-- ⚡ Building intelligent **workflow automations** and **AI agents**
-- 🔧 Implementing AI-driven solutions for business process optimization
-- 📊 Integrating LLMs and AI models into production applications
+**AI & Automation Expertise:**
+- Deep understanding of **Generative AI** technologies and applications
+- Building intelligent **workflow automations** and **AI agents**
+- Implementing AI-driven solutions for business process optimization
+- Integrating LLMs and AI models into production applications
 
-🌱 **Currently working on:**
-- 🏠 [All In One Renovations](https://allinonerenovations.com.au/) - Comprehensive renovation platform
-- 🇳🇵 [Hop Nepal](https://hopnepal.com) - Travel and tourism solutions
-- 🎓 [Skill Pathway](https://skillpathway.com.au/) - Educational technology platform
+**Currently working on:**
+- [All In One Renovations](https://allinonerenovations.com.au/) - Comprehensive renovation platform
+- [Hop Nepal](https://hopnepal.com) - Travel and tourism solutions
+- [Skill Pathway](https://skillpathway.com.au/) - Educational technology platform
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 ```javascript
 const asisjha977 = {
@@ -40,53 +40,53 @@ const asisjha977 = {
 
 ---
 
-### 💼 Professional Journey
+### Professional Journey
 
-**🎯 Head of Technical Operations & AI Generalist** - *Aussie IT Group* (Current)
+** Head of Technical Operations & AI Generalist** - *Aussie IT Group* (Current)
 - Leading technical operations for multiple client projects with AI integration
 - Developing and implementing **AI-powered workflow automations**
 - Building **intelligent agents** for business process optimization
 - Overseeing development lifecycle and AI-enhanced deployment strategies
 - Managing cross-functional teams and technical roadmaps with AI initiatives
 
-**👥 Team Lead - QA & Support** - *Codewing Solutions* (2 years)
-- Led QA and Support teams with proven track record
+** Team Lead - QA & Support Team** - *Codewing Solutions* (2 years)
+- Led QA and Support team with proven track record
 - Implemented quality assurance processes and standards
 - Mentored team members and improved operational efficiency
 
-**🔧 Junior Customer Support Engineer** - *Codewing Solutions* (3 years)
+** Junior Customer Support Engineer** - *Codewing Solutions* (3 years)
 - Started career journey with hands-on technical support
 - Developed strong problem-solving and client communication skills
 - Progressed through increasing responsibilities and technical challenges
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
-#### 🏆 Professional Projects
+#### Professional Projects
 - **[All In One Renovations](https://allinonerenovations.com.au/)** - Complete renovation management platform
 - **[Aussie IT Group](https://aussieitgroup.com.au/)** - IT solutions and services website
 - **[Advance Care Agency](https://advancecareagency.com.au/)** - Healthcare services platform
 - **[Skill Pathway](https://skillpathway.com.au/)** - Educational technology solution
 
-#### 🔧 Side Projects & AI Tools
+#### Side Projects & AI Tools
 
-**[💰 SplitMate](https://github.com/asisjha977/splitmate)**
+**[SplitMate](https://github.com/asisjha977/splitmate)**
 > Smart expense splitting application for groups and friends
 
-**[📸 Screenshot App](https://github.com/asisjha977/screenshot-app)**
+**[Screenshot App](https://github.com/asisjha977/screenshot-app)**
 > Full-page screenshot utility for batch URL processing with automation capabilities
 
-**[🔍 Flask URL Tester](https://github.com/asisjha977/flask-url-tester)**
+**[Flask URL Tester](https://github.com/asisjha977/flask-url-tester)**
 > AI-enhanced web crawler that identifies Google Ads implementation across websites
 
-**[🤖 AI Workflow Automations]**
+**[AI Workflow Automations]**
 > Custom AI agents and automation solutions for business process optimization
 > *Intelligent document processing, customer service bots, and workflow orchestration*
 
 <!-- ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -100,18 +100,18 @@ const asisjha977 = {
 
 ---
 
-### 🎯 What I'm Up To
+### What I'm Up To
 
-- 🔭 **Currently working on:** Leading technical operations and developing AI-powered solutions
-- 🤖 **AI Focus:** Building intelligent agents and workflow automations using Gen AI
-- 🌱 **Learning:** Advanced LLM integration, AI orchestration, and multi-agent systems
-- 👯 **Looking to collaborate on:** AI-driven projects, automation tools, and innovative web applications
-- 💬 **Ask me about:** Full-stack development, AI integration, team leadership, and intelligent automation
-- ⚡ **Fun fact:** I love creating AI agents that solve real-world problems and automate complex workflows!
+- **Currently working on:** Leading technical operations and developing AI-powered solutions
+- **AI Focus:** Building intelligent agents and workflow automations using Gen AI
+- **Learning:** Advanced LLM integration, AI orchestration, and multi-agent systems
+- **Looking to collaborate on:** AI-driven projects, automation tools, and innovative web applications
+- **Ask me about:** Full-stack development, AI integration, team leadership, and intelligent automation
+- **Fun fact:** I love creating AI agents that solve real-world problems and automate complex workflows!
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 <div align="center">
 
