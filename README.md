@@ -26,7 +26,7 @@ I'm a passionate software engineer and **AI Generalist** with over **5 years of 
 ### 🛠️ Tech Stack & Skills
 
 ```javascript
-const asisJha = {
+const asisjha977 = {
     code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
     frameworks: ["Flask", "React", "Node.js", "Django"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
