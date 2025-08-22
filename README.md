@@ -42,19 +42,19 @@ const asisjha977 = {
 
 ### Professional Journey
 
-** Head of Technical Operations & AI Generalist** - *Aussie IT Group* (Current)
+**Head of Technical Operations & AI Generalist** - *Aussie IT Group* (Current)
 - Leading technical operations for multiple client projects with AI integration
 - Developing and implementing **AI-powered workflow automations**
 - Building **intelligent agents** for business process optimization
 - Overseeing development lifecycle and AI-enhanced deployment strategies
 - Managing cross-functional teams and technical roadmaps with AI initiatives
 
-** Team Lead - QA & Support Team** - *Codewing Solutions* (2 years)
+**Team Lead - QA & Support Team** - *Codewing Solutions* (2 years)
 - Led QA and Support team with proven track record
 - Implemented quality assurance processes and standards
 - Mentored team members and improved operational efficiency
 
-** Junior Customer Support Engineer** - *Codewing Solutions* (3 years)
+**Junior Customer Support Engineer** - *Codewing Solutions* (3 years)
 - Started career journey with hands-on technical support
 - Developed strong problem-solving and client communication skills
 - Progressed through increasing responsibilities and technical challenges
@@ -80,7 +80,7 @@ const asisjha977 = {
 **[Flask URL Tester](https://github.com/asisjha977/flask-url-tester)**
 > AI-enhanced web crawler that identifies Google Ads implementation across websites
 
-**[AI Workflow Automations]**
+**AI Workflow Automations**
 > Custom AI agents and automation solutions for business process optimization
 > *Intelligent document processing, customer service bots, and workflow orchestration*
 
