@@ -17,9 +17,9 @@ I'm a passionate software engineer and **AI Generalist** with over **5 years of 
 - Integrating LLMs and AI models into production applications
 
 **Currently working on:**
-- [All In One Renovations](https://allinonerenovations.com.au/) - Comprehensive renovation platform
-- [Hop Nepal](https://hopnepal.com) - Travel and tourism solutions
-- [Skill Pathway](https://skillpathway.com.au/) - Educational technology platform
+- <a href="https://allinonerenovations.com.au/" target="_blank">All In One Renovations</a> – Comprehensive renovation platform  
+- <a href="https://hopnepal.com" target="_blank">Hop Nepal</a> – Travel and tourism solutions  
+- <a href="https://skillpathway.com.au/" target="_blank">Skill Pathway</a> – Educational technology platform
 
 ---
 
@@ -64,10 +64,20 @@ const asisjha977 = {
 ### Featured Projects
 
 #### Professional Projects
-- **[All In One Renovations](https://allinonerenovations.com.au/)** - Complete renovation management platform
-- **[Aussie IT Group](https://aussieitgroup.com.au/)** - IT solutions and services website
-- **[Advance Care Agency](https://advancecareagency.com.au/)** - Healthcare services platform
-- **[Skill Pathway](https://skillpathway.com.au/)** - Educational technology solution
+<ul>
+  <li>
+    <a href="https://allinonerenovations.com.au/" target="_blank"><b>All In One Renovations</b></a> - Complete renovation management platform
+  </li>
+  <li>
+    <a href="https://aussieitgroup.com.au/" target="_blank"><b>Aussie IT Group</b></a> - IT solutions and services website
+  </li>
+  <li>
+    <a href="https://advancecareagency.com.au/" target="_blank"><b>Advance Care Agency</b></a> - Healthcare services platform
+  </li>
+  <li>
+    <a href="https://skillpathway.com.au/" target="_blank"><b>Skill Pathway</b></a> - Educational technology solution
+  </li>
+</ul>
 
 #### Side Projects & AI Tools
 
