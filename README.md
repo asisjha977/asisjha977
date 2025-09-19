@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ashish Jha
 
-## Tech Ops Lead | AI Generalist | Full-Stack Developer | Team Leader
+## Head of Technical Operations | AI Generalist | Full-Stack Developer | Team Leader
 
 > *Transforming ideas into intelligent, scalable digital solutions with 5+ years of engineering excellence and deep expertise in Generative AI*
 
@@ -42,7 +42,7 @@ const asisjha977 = {
 
 ### Professional Journey
 
-**Tech Ops Lead & AI Generalist** - *Aussie IT Group* (Current)
+**Head of Technical Operations & AI Generalist** - *Aussie IT Group* (Current)
 - Leading technical operations for multiple client projects with AI integration
 - Developing and implementing **AI-powered workflow automations**
 - Building **intelligent agents** for business process optimization
