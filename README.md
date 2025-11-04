@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Ashish Jha
 
-## Head of Technical Operations | AI Generalist | Full-Stack Developer | Team Leader
+<!-- ## Head of Technical Operations | AI Generalist | Full-Stack Developer | Team Leader
 
 > *Transforming ideas into intelligent, scalable digital solutions with 5+ years of engineering excellence and deep expertise in Generative AI*
 
----
+--- 
 
 ### About Me
 
@@ -21,7 +21,7 @@ I'm a passionate software engineer and **AI Generalist** with over **5 years of 
 - <a href="https://hopnepal.com" target="_blank">Hop Nepal</a> – Travel and tourism solutions  
 - <a href="https://skillpathway.com.au/" target="_blank">Skill Pathway</a> – Educational technology platform
 
----
+--- -->
 
 ### Tech Stack & Skills
 
@@ -38,7 +38,7 @@ const asisjha977 = {
 };
 ```
 
----
+<!-- ---
 
 ### Professional Journey
 
@@ -94,7 +94,7 @@ const asisjha977 = {
 > Custom AI agents and automation solutions for business process optimization
 > *Intelligent document processing, customer service bots, and workflow orchestration*
 
-<!-- ---
+---
 
 ### GitHub Stats
 
@@ -131,7 +131,7 @@ const asisjha977 = {
 
 </div>
 
----
+--- -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asisjha977&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
