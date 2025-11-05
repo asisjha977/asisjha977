@@ -27,8 +27,9 @@ I'm a passionate software engineer and **AI Generalist** with over **5 years of 
 
 ```javascript
 const asisjha977 = {
-    code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
-    frameworks: ["Flask", "React", "Node.js", "Django"],
+    code: ["JavaScript", "PHP", "Python", "HTML/CSS", "SQL"],
+    frameworks: ["Flask", "Laravel", "React", "Node.js", "Django"],
+    cms: ["WordPress", "Squarespace", "Wix", "Shopify"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
     tools: ["Git", "Docker", "AWS", "Linux"],
     ai_technologies: ["OpenAI API", "LangChain", "Hugging Face", "TensorFlow", "PyTorch"],
